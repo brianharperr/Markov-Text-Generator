@@ -1,7 +1,7 @@
 # Markov-Text-Generator
 C++ text generation using Markov Chains and user-provided training data.
 
-#Features
+## Features
 Unlike most text generation that uses markov chains, nodes are single words, not phrases.
 
 ## Installation
